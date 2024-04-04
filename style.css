@@ -1,0 +1,17 @@
+h3 {
+    text-align: center;
+}
+
+#about{
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+li {
+    text-align: left;
+}
+body {
+    background-color: rgba(93, 92, 92, 0.38);
+}
